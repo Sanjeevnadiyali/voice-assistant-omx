@@ -31,3 +31,12 @@ Receive both text and audio responses
 🛠️ **Troubleshooting**
 Audio issues: Install pyaudio using pipwin install pyaudio (Windows) or sudo apt install python3-pyaudio (Linux)
 Port busy: Use streamlit run voice-assistant-omx.py --server.port 8502
+
+**Project structure**
+voice-assistant-omx/
+├── voice-assistant-omx.py    # Main application file
+├── faqs.json                 # Questions & answers database
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
+└── assets/                   # Optional: for images/screenshots
+    └── app-screenshot.png    # Optional: application screenshot
