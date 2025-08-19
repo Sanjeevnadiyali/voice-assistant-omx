@@ -1,0 +1,67 @@
+{
+    "OMX Digital क्या है?|What is OMX Digital?": {
+        "answer_hi": "OMX Digital एक AI-शक्ति से संचालित डिजिटल मार्केटिंग और व्यवसाय स्वचालन प्लेटफ़ॉर्म है जो व्यवसायों को उनके संचालन, विपणन और बिक्री को स्वचालित, अनुकूलित और स्केल करने में मदद करता है।",
+        "answer_en": "OMX Digital is an AI-powered digital marketing and business automation platform that helps businesses automate, optimize, and scale their operations, marketing, and sales.",
+        "keywords": ["omx digital", "क्या है", "what is", "about omx"]
+    },
+    "OMX Digital कहाँ स्थित है?|Where is OMX Digital located?": {
+        "answer_hi": "हमारे कार्यालय गुड़गांव, हरियाणा और सिलीगुड़ी, पश्चिम बंगाल में स्थित हैं।",
+        "answer_en": "Our offices are located in Gurugram, Haryana and Siliguri, West Bengal.",
+        "keywords": ["location", "office", "कहाँ", "where"]
+    },
+    "क्या मैं OMX Digital के उत्पादों का डेमो देख सकता हूँ?|Can I see a demo of OMX Digital products?": {
+        "answer_hi": "हाँ, आप हमारी वेबसाइट पर जाकर डेमो बुक कर सकते हैं।",
+        "answer_en": "Yes, you can visit our website and book a demo.",
+        "keywords": ["demo", "product demo", "डेमो", "try", "show"]
+    },
+    "OMX Sync क्या है?|What is OMX Sync?": {
+        "answer_hi": "OMX Sync एक टीम और संचालन प्रबंधन उपकरण है जो कार्यों को असाइन करने, उपस्थिति ट्रैकिंग, छुट्टी अनुमोदन, और टीम प्रदर्शन रिपोर्टिंग जैसी सुविधाएँ प्रदान करता है।",
+        "answer_en": "OMX Sync is a team and operations management tool that provides features such as task assignment, attendance tracking, leave approvals, and team performance reporting.",
+        "keywords": ["sync", "team management", "attendance", "task"]
+    },
+    "OMX Sales क्या है?|What is OMX Sales?": {
+        "answer_hi": "OMX Sales एक AI-संचालित बिक्री और विपणन स्वचालन प्लेटफ़ॉर्म है जो लीड जनरेशन, CRM, और विज्ञापन प्रबंधन जैसी सुविधाएँ प्रदान करता है।",
+        "answer_en": "OMX Sales is an AI-powered sales and marketing automation platform that provides features such as lead generation, CRM, and ad management.",
+        "keywords": ["sales", "crm", "marketing", "advertisement"]
+    },
+    "OMX Flow क्या है?|What is OMX Flow?": {
+        "answer_hi": "OMX Flow एक AI-संचालित चैटबॉट और वार्तालाप स्वचालन प्लेटफ़ॉर्म है जो WhatsApp, Instagram, और Facebook पर स्वचालित वार्तालाप, समर्थन, और वाणिज्य प्रदान करता है।",
+        "answer_en": "OMX Flow is an AI-powered chatbot and conversation automation platform that provides automated conversations, support, and commerce on WhatsApp, Instagram, and Facebook.",
+        "keywords": ["flow", "chatbot", "automation", "facebook", "instagram"]
+    },
+    "OMX Digital कौन सी सेवाएँ प्रदान करता है?|What services does OMX Digital provide?": {
+        "answer_hi": "हम व्यवसाय स्वचालन, विपणन स्वचालन, WhatsApp स्वचालन, डिजिटल विपणन, वेबसाइट डिज़ाइनिंग, और प्रीमियम सेवाएँ प्रदान करते हैं।",
+        "answer_en": "We provide business automation, marketing automation, WhatsApp automation, digital marketing, website designing, and premium services.",
+        "keywords": ["services", "automation", "marketing", "website"]
+    },
+    "क्या आप कस्टम लैंडिंग पेज डिज़ाइन करते हैं?|Do you design custom landing pages?": {
+        "answer_hi": "हाँ, हम उच्च-रूपांतरण लैंडिंग पेज डिज़ाइन करते हैं जो आपके लीड कैप्चर और रूपांतरण दरों में सुधार करते हैं।",
+        "answer_en": "Yes, we design high-converting landing pages that improve your lead capture and conversion rates.",
+        "keywords": ["landing page", "design", "website"]
+    },
+    "OMX Digital के ग्राहक कौन हैं?|Who are OMX Digital's clients?": {
+        "answer_hi": "हमारे ग्राहक में वित्तीय संस्थाएँ, शैक्षिक संस्थान, डिजिटल विपणन एजेंसियाँ, और कॉर्पोरेट कार्यालय शामिल हैं।",
+        "answer_en": "Our clients include financial institutions, educational organizations, digital marketing agencies, and corporate offices.",
+        "keywords": ["clients", "ग्राहक", "industries", "institutions"]
+    },
+    "क्या आप MSME प्रमाणित हैं?|Are you MSME certified?": {
+        "answer_hi": "हाँ, OMX Digital MSME प्रमाणित है।",
+        "answer_en": "Yes, OMX Digital is MSME certified.",
+        "keywords": ["msme", "certificate", "प्रमाणित", "registration"]
+    },
+    "OMX Digital की स्थापना कब हुई थी?|When was OMX Digital founded?": {
+        "answer_hi": "OMX Digital की स्थापना 2020 में हुई थी।",
+        "answer_en": "OMX Digital was founded in 2020.",
+        "keywords": ["established", "founded", "स्थापना", "year"]
+    },
+    "QR-आधारित उपस्थिति ट्रैकिंग कैसे काम करती है?|How does QR-based attendance tracking work?": {
+        "answer_hi": "कर्मचारी निर्दिष्ट स्थानों पर QR कोड स्कैन करके अपनी उपस्थिति दर्ज करते हैं।",
+        "answer_en": "Employees mark their attendance by scanning QR codes at designated locations.",
+        "keywords": ["qr", "attendance", "tracking", "उपस्थिति", "scanner"]
+    },
+    "क्या मैं अपने विज्ञापन अभियानों को ट्रैक कर सकता हूँ?|Can I track my ad campaigns?": {
+        "answer_hi": "हाँ, OMX Sales आपको अपने विज्ञापन अभियानों की प्रदर्शन रिपोर्ट और विश्लेषण प्रदान करता है।",
+        "answer_en": "Yes, OMX Sales provides you with performance reports and analytics of your ad campaigns.",
+        "keywords": ["ads", "campaigns", "विज्ञापन", "marketing", "analytics"]
+    }
+}
